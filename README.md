@@ -79,7 +79,7 @@ Throughout the project, I practiced:
 
 ## Project Structure
 
-`text
+```text
 .
 ├── datasets/
 │
@@ -101,3 +101,4 @@ Throughout the project, I practiced:
 │   └── 13_report_product.sql
 │
 └── README.md
+```
